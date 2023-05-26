@@ -1,7 +1,5 @@
-
+ ### conference-page
 <div align="center">
-  # conference-page
-  
   <h3><b>Microverse Capstone I : A Remaque of Conference Page </b></h3>
 </div>
 <hr>
